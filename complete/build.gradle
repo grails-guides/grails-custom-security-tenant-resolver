@@ -69,8 +69,8 @@ dependencies {
     testCompile "io.micronaut:micronaut-http-client"
     testCompile "org.grails:grails-web-testing-support"
     //tag::securityDependencies[]
-    compile 'org.grails.plugins:spring-security-core:4.0.1.BUILD-SNAPSHOT'
-    compile "org.grails.plugins:spring-security-rest:3.0.0.RC1"
+    compile 'org.grails.plugins:spring-security-core:4.0.4'
+    compile "org.grails.plugins:spring-security-rest:3.0.1"
     //end::securityDependencies[]
 }
 
